@@ -1,6 +1,6 @@
 # Transaction Fraud Detector
+![image search api](https://altoo.io/live01/wp-content/uploads/2024/01/transaction-banking.jpg.webp)
 ---
-
 ## 1.0 Business Context
 
 Blocker Fraud Company specializes in detecting fraudulent transactions on mobile platforms. Their flagship service, *Blocker Fraud*, guarantees the identification and blocking of fraudulent activity.
