@@ -23,10 +23,6 @@ As fraud evolves, investment in cybersecurity has surged. According to the [2020
 
 ---
 
-Here’s the **“Solution Approach”** section rewritten in a clear, professional table format for better readability and presentation:
-
----
-
 ## 3.0 Solution Approach
 
 | **Step**                               | **Description**                                                                                                                                                                                   |
