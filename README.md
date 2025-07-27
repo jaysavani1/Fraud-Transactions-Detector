@@ -92,11 +92,3 @@ Despite the highly imbalanced nature of the dataset, a robust and reliable model
 
 ---
 
-## 8.0 Next Steps
-
-* Expand hypothesis testing with up to 10 new ideas.
-* Explore additional oversampling or undersampling techniques.
-* Deploy the final API to a production platform such as Heroku.
-
----
-
